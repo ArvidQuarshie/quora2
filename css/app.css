@@ -1,0 +1,16 @@
+.container{
+    height:100%;
+    width:100%;
+    background-image: url(../images/quora.jpeg);
+    background-repeat: no-repeat;
+    background-position:center center;
+-o-background-size: 100% 100%, auto;
+-moz-background-size: 100% 100%, auto;
+-webkit-background-size: 100% 100%, auto;
+background-size: 100% 100%, auto;
+
+}
+
+#fbholder{
+    border-right-style: inset;
+}
